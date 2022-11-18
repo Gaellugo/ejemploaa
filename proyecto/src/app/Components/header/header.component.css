@@ -1,0 +1,32 @@
+.icons{
+    height: 25px;
+    width: 25px;
+    margin: 8px 15px;
+}
+
+.test{
+    border-width: 1px;
+    border-style: solid;
+    border-color: magenta;
+}
+
+.row{
+    margin: 0;
+}
+
+#logo{
+    height: 50px;
+    width: auto;
+    margin: 8px;
+}
+
+.nav-wrapper{
+    background-color: rgb(0, 60, 112);
+}
+
+#search{
+    background-color: white;
+    height: 40px;
+    margin: 12px;
+    border-radius: 25px;
+}
